@@ -3,5 +3,39 @@
     width: 800px;
     margin: auto;
     padding: 10px;
+    align-self: center;
     
+    
+}
+
+nav{
+    width: 300px;
+    margin: auto;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+   
+
+}
+
+.bodynosotros{
+
+    background: rgb(183, 181, 185); 
+    
+    align-content: center;
+    width: 100%;
+    margin: auto;
+
+}
+
+.parrafo{
+
+    color: aliceblue;
+    font-size: 30px;
+    text-align: left;
+}
+
+.pie{
+    padding: 20px
 }
